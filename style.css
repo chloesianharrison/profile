@@ -46,12 +46,12 @@ img {
   margin: auto;
   width: 350px;
   height: 350px;
-  background-image: url(/images/profile_picture.jpg);
+  background-image: url(images/profile_picture.jpg);
 
   background-size: contain;
 }
 .profile:hover{
-  background-image: url(/images/salt_bae.jpeg);
+  background-image: url(images/salt_bae.jpeg);
 }
 a {
   color: #51829B;
